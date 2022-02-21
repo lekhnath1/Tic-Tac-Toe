@@ -8,3 +8,4 @@
 • The player clicks on an empty square to make a move. X goes first, followed by O.
 • Once a full line is made, do something to indicate the win (up to you).
 • In case of a tie, restart the game.
+
