@@ -138,14 +138,14 @@ h1 {
 
 .winning-message button {
   font-size: 3rem;
-  background-color: white;
+  background-color: #c0c0c0;
   border: 1px solid red;
   padding: 0.25em 0.5em;
   cursor: pointer;
 }
 
 .winning-message button:hover {
-  background-color: rgb(136, 72, 72);
+  background-color: gray;
   color: white;
   border-color: white;
 }
